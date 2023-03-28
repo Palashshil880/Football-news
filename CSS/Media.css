@@ -1,7 +1,6 @@
 @media (max-width:420px){
     .header-body{
         height: auto;
-        width: auto;
     }
     .nav-manu-bar{
         display: none;

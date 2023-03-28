@@ -42,7 +42,7 @@ nav a, .top-section a{
 /* top section  */
 .top-section{
     display: flex;
-    margin-top: 50px;
+    padding-top: 50px;
 }
 .Half-width{
     width: 50%;
@@ -60,7 +60,7 @@ height: 456px;
     font-size: 64px;
 }
 .top-section a, .Loging-button a{
-    padding: 10px 22px;
+    padding: 10px;
     background-color: #E02C6D;
     border-radius: 10px;
 }
